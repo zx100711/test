@@ -1,5 +1,6 @@
 package com.zx.demo.controller;
 
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -12,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/test")
 public class TestController {
 
-    @RequestMapping("/zx")
+    @GetMapping("/zx")
     public String test(){
         return "ok!";
     }
