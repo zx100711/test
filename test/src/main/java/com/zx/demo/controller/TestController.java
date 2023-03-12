@@ -14,6 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
     @GetMapping("/zx")
     public String test(){
-        return "ok!";
+        return "ok!1";
     }
 }
