@@ -8,6 +8,12 @@ class DemoApplicationTests {
 
     @Test
     void contextLoads() {
+        try{
+
+        } finally{
+
+        }
+
     }
 
 }
