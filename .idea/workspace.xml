@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66a1dd32-4f76-4015-857c-c6d04200bfd8" name="Default Changelist" comment="test push2">
+    <list default="true" id="66a1dd32-4f76-4015-857c-c6d04200bfd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gaoboingfa.md" beforeDir="false" afterPath="$PROJECT_DIR$/gaoboingfa.md" afterDir="false" />
     </list>
@@ -44,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/gaoboingfa.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="370">
-                <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+              <first_editor relative-caret-position="311">
+                <caret line="215" lean-forward="true" selection-start-line="215" selection-end-line="215" />
               </first_editor>
               <second_editor />
             </state>
@@ -358,7 +358,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678292438401</updated>
-      <workItem from="1678292439511" duration="11331000" />
+      <workItem from="1678292439511" duration="12136000" />
     </task>
     <task id="LOCAL-00001" summary="test push">
       <created>1678613513750</created>
@@ -381,14 +381,22 @@
       <option name="project" value="LOCAL" />
       <updated>1678631569457</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="push">
+      <created>1679662486912</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679662486912</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11331000" />
+    <option name="totallyTimeSpent" value="12136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -401,11 +409,11 @@
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" sideWeight="0.50053704" side_tool="true" visible="true" weight="0.39910814" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053704" side_tool="true" visible="true" weight="0.32998884" />
+      <window_info active="true" anchor="bottom" id="Messages" sideWeight="0.49946293" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.49946293" visible="true" weight="0.39910814" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49946293" weight="0.39910814" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -466,7 +474,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test push" />
     <MESSAGE value="test push2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test push2" />
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/pom.xml">
@@ -545,8 +554,8 @@
     <entry file="file://$PROJECT_DIR$/gaoboingfa.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="370">
-            <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <first_editor relative-caret-position="311">
+            <caret line="215" lean-forward="true" selection-start-line="215" selection-end-line="215" />
           </first_editor>
           <second_editor />
         </state>
